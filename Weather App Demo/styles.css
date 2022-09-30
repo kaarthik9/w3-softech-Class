@@ -1,0 +1,12 @@
+#city-input, #weather-output, .alert-danger {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+ul li {
+  font-size: 1.4rem;
+}
+
+.alert-danger {
+  display: none;
+}
